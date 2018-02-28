@@ -29,7 +29,7 @@ Initial, joystick-ul a fost introdus pentru a controla un meniu, unde se puteau 
 Pentru acum, doar modul clasic este disponibil.
 
 # Links
-Link video (https://youtu.be/ADZMjuaM2LY)
-Links BOM 
+### Link video (https://youtu.be/ADZMjuaM2LY)
+### Links BOM 
   - (https://docs.google.com/spreadsheets/d/1_GYeWjBXVv_4aekasxN6_g4DxXadq2Kq5P1_7F1olAA/edit?usp=sharing)
   - (https://drive.google.com/open?id=1CKUICWOVK3KxMyrHCCdv6UoYz_uYkNdwl4iwMKcI8rY)
